@@ -1,2 +1,2 @@
-# amazon_playlist_downloader
-A script to download and generate playist filr from Amzon music
+# Amazon Music Playlist Downloader
+A script to download and generate playist file from Amazon music
