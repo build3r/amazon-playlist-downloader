@@ -13,4 +13,4 @@ A script to download and generate playist file from Amazon music
   ```
     <curl req from step 5> -o playlist.json
   ```
-7. run the script `ptython generate_playlist.py`
+7. run the script `python generate_playlist.py`
